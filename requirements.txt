@@ -1,2 +1,3 @@
 tqdm
 blend_modes
+addict
