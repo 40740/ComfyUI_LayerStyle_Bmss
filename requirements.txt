@@ -2,3 +2,4 @@ tqdm
 blend_modes
 addict
 huggingface_hub
+pymatting
